@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.form{
+  display: flex;
+  flex-direction: column;
+}
+
+
+.button{
+  height: 1.5em;
+  width: 4em;
+  align-self: center;
+  margin-top: 40px;
+}
+
+.password {
+  margin-top: 40px;
+  align-self: auto;
+}
+
+.email{
+  align-self: auto;
+  margin-top: 50px;
+}
